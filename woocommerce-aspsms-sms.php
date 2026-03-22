@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WooCommerce ASPSMS SMS Notifications
- * Plugin URI:  https://github.com/r1azmh/woocommerce-aspsms-sms-notifications
+ * Plugin URI:  https://github.com/r1azmh/woocommerce-aspsms-sms
  * Description: Sends SMS notifications to customers via ASPSMS when a WooCommerce order status changes.
  * Version:     1.0.0
  * Author:      Riaz Mahmud
